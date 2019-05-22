@@ -1,0 +1,140 @@
+body {
+  background: url('images/bg-desktop.svg');
+  background-color: hsl(257, 40%, 49%);
+}
+
+html {
+  color: white;
+}
+
+main {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  color: hsl(257, 40%, 49%);
+  padding: 10px 40px;
+  border: 0;
+  border-radius: 15px;
+  box-shadow: 7px 6px 30px -6px rgba(0,0,0,0.75);
+  width: 60%;
+}
+
+.logo {
+  margin-left: 40px;
+  margin-top: 20px;
+  width: 40%;
+}
+
+.container {
+  padding-right: 25px;
+  text-align: center;
+  padding-left: 25px;
+}
+
+.container div {
+  vertical-align: middle;
+}
+
+
+img {
+  max-width: 100%;
+}
+
+.image {
+  padding-left: 50px;
+  padding-right: 50px;
+  align-items: center;
+  height: auto;
+  min-width: 0;
+}
+
+h1 {
+  font-family: 'Poppins', 'Open Sans', sans-serif;
+  font-size: 1.7rem;
+  margin-bottom: 1.5rem;
+  
+  line-height: 1.6em;
+}
+
+p {
+    font-family: 'Open Sans', 'Poppins', sans-serif;
+    font-weight: 100;
+    line-height: 1.8rem;
+}
+
+i {
+  float: left;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.fa-facebook-f {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.fa-instagram {
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.attribution {
+  float: left;
+}
+
+.icons {
+  margin-left: 70px;
+ 
+}
+
+footer {
+  margin-top: 40px;
+  padding-bottom: 70px; 
+}
+
+
+@media only screen and (min-width: 600px) {
+
+  main {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+  }
+
+
+  .logo { 
+    width: 25%;
+    margin-left: 40px;
+  }
+
+  .image {
+    min-width: 50%;
+  }
+
+  .container {
+    text-align: left;
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+
+  .icons {
+    float: right;
+    margin-right: 50px;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  button {
+    width: 25%;
+  }
+
+} 
