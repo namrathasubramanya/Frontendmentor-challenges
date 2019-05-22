@@ -4,8 +4,8 @@
 
 ### Desktop view
 
-### [Challenge 1](huddle-landing-page/mockup/desktop-design.jpg)
+![Challenge 1](huddle-landing-page/mockup/desktop-design.jpg)
 
 ### Mobile view
 
-### [Challenge 1](huddle-landing-page/mockup/mobile-design.jpg)
+![Challenge 1](huddle-landing-page/mockup/mobile-design.jpg)
