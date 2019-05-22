@@ -8,4 +8,4 @@
 
 ### Mobile view
 
-<img src="huddle-landing-page/mockup/mobile-design.jpg" width="350" height="600" alt="Challenge 1"/>
+<img src="huddle-landing-page/mockup/mobile-design.jpg" width="350" height="700" alt="Challenge 1"/>
