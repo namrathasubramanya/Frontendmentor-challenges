@@ -1,6 +1,6 @@
 # Frontendmentor-challenges
 
-## Challenge 1 - Huddle Landing Page with short introductory section
+## Challenge 1 - Huddle Landing Page with short introductory section - [Demo Link](https://upbeat-payne-089de0.netlify.com/)
 
 ### Desktop view
 
